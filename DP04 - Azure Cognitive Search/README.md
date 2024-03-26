@@ -1,8 +1,4 @@
 
-[Documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
-
-## Passo 1: Criando recurso do Asure AI Search:     
-
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP04%20-%20Intelig%C3%AAncia%20de%20documentos%20e%20minera%C3%A7%C3%A3o%20de%20conhecimento/01%20-%20config%20da%20busca.gif" width=""/> ...  
 
 ## Passo 2: Criando recurso do Azure AI services:      
