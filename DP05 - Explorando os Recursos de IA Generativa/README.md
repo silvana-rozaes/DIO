@@ -2,7 +2,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/imagens/DP05/02.gif" width=""/>
 
-<img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/03.gif" width=""/> ... 
 
 <img align="right" src="https://raw.githubusercontent.com/alexklenio/DIO-Microsoft-Azure-AI-Fundamentals/main/DP05%20-%20Explorando%20os%20Recursos%20de%20IA%20Generativa/outputs/04.gif" width=""/> ... 
 
